@@ -19,3 +19,5 @@ I'll take an iterative approach. Major steps will be:
   - Differencing VHD
   - Dynamic VHDX
   - Differencing VHDX
+
+[Requirements](docs/REQUIREMENTS.md)
